@@ -1,5 +1,12 @@
 # Heart Disease Classifier Benchmark
 
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-blue?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![License](https://img.shields.io/badge/License-MIT-success)
+
 ![Project Cover](figures/metrics_heatmap.png)
 
 ## Overview
