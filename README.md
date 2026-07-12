@@ -107,14 +107,26 @@ pip install -r requirements.txt
 
 ---
 
-## Results
-
-The final comparison of all algorithms is available in:
-
-- `results/comparison.csv`
-- `results/best_model.csv`
-
 ---
+
+## 🏆 Best Performing Model
+
+Based on the comprehensive evaluation of ten classical machine learning classification algorithms on the Cleveland Heart Disease dataset, **Logistic Regression** achieved the best overall performance.
+
+| Metric | Value |
+|--------|------:|
+| Rank | **1** |
+| Accuracy | **91.67%** |
+| Precision | **100.00%** |
+| Recall | **82.14%** |
+| F1 Score | **90.20%** |
+| ROC-AUC | **95.31%** |
+
+For the complete ranking of all classifiers, see:
+
+- `results/best_model.csv`
+- `results/comparison.csv`
+- `notebooks/11_Model_Comparison.ipynb`
 
 ## Technologies Used
 
