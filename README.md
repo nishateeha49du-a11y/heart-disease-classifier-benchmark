@@ -109,7 +109,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🏆 Best Performing Model
+##  Best Performing Model
 
 Based on the comprehensive evaluation of ten classical machine learning classification algorithms on the Cleveland Heart Disease dataset, **Logistic Regression** achieved the best overall performance.
 
