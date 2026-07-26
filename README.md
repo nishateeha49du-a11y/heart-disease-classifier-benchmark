@@ -1,14 +1,14 @@
-** Heart Disease Classifier Benchmark
+** Heart Disease Classifier Benchmark **
 
 
 
-** Overview
+** Overview**
 
 This project presents a comprehensive benchmark of classical machine learning classification algorithms for heart disease prediction using the Cleveland Heart Disease dataset. Multiple models are trained, evaluated, and compared using a wide range of performance metrics and visualization techniques.
 
 
 
-** Dataset
+** Dataset**
 
 - **Dataset:** Heart Disease Cleveland UCI
 - **Target Variable:** `condition`
@@ -16,7 +16,7 @@ This project presents a comprehensive benchmark of classical machine learning cl
 
 
 
-** Algorithms Implemented
+** Algorithms Implemented **
 
 - Logistic Regression
 - Linear Discriminant Analysis (LDA)
@@ -29,7 +29,7 @@ This project presents a comprehensive benchmark of classical machine learning cl
 - Gradient Boosting
 - Multi-Layer Perceptron (MLP)
 
-** Evaluation Metrics
+** Evaluation Metrics **
 
 The models are evaluated using:
 
@@ -47,7 +47,7 @@ The models are evaluated using:
 - Training Time
 - Prediction Time
 
-** Visualizations
+** Visualizations **
 
 The project includes:
 
@@ -66,7 +66,7 @@ The project includes:
 - Metrics Heatmap
 - Cross Validation Boxplot
 
-** Repository Structure
+** Repository Structure **
 
 ```
 heart-disease-classifier-benchmark/
@@ -83,7 +83,7 @@ heart-disease-classifier-benchmark/
 
 ---
 
-** Installation
+** Installation **
 
 ```bash
 git clone https://github.com/nishateeha49du-a11y/heart-disease-classifier-benchmark.git
@@ -96,7 +96,7 @@ pip install -r requirements.txt
 
 ---
 
-**  Best Performing Model
+**  Best Performing Model **
 
 Based on the comprehensive evaluation of ten classical machine learning classification algorithms on the Cleveland Heart Disease dataset, **Logistic Regression** achieved the best overall performance.
 
@@ -115,7 +115,7 @@ For the complete ranking of all classifiers, see:
 - `results/comparison.csv`
 - `notebooks/11_Model_Comparison.ipynb`
 
-** Technologies Used
+** Technologies Used **
 
 - Python
 - NumPy
